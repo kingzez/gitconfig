@@ -1,5 +1,7 @@
 # gitconfig
+>my git config
 
+```
 [core]
 	excludesfile = /Users/w/.gitignore_global
 [push]
@@ -28,3 +30,4 @@
 [log]
 	date = format:'%Y-%m-%d %H:%M:%S'
 
+```
